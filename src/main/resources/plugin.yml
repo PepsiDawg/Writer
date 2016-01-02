@@ -1,0 +1,6 @@
+main: io.github.pepsidawg.writer.Writer
+name: Writer
+authors: [PepsiDog]
+version: 0.1.0
+loadbefore: [WorldEdit]
+description: Make sky word art!
