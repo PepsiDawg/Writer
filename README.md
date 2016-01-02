@@ -1,1 +1,4 @@
-Sky writing plugin for Minecraft
+Writer
+====
+Sky writing plugin for Minecraft 1.8.x
+------------------------------------------------------
